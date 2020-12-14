@@ -1,0 +1,15 @@
+{
+    "name": "brinyemp4/geotag",
+    "description": "Geotag PHP basic library",
+    "type": "project",
+    "authors": [
+        {
+            "name": "KJ",
+            "email": "brinyemp4@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+		"psr-0": { "Geotag\\": "lib/" }
+	}
+}
